@@ -47,7 +47,7 @@
       "webSite": "https://curiousvr.itch.io/space-pilot-alliance-oculus-quest",
       "added": 1563973867000,
       "icon": "spacepilotalliance.png",
-      "packageName": "",
+      "packageName": "itch.io.SpacePilotAlliance",
       "lastUpdated": 1563973867000
     },
     {
@@ -65,7 +65,7 @@
       "webSite": "https://andyman404.itch.io/lullaby-of-colors",
       "added": 1563973867000,
       "icon": "alullabyofcolors.jpg",
-      "packageName": "",
+      "packageName": "itch.io.ALullabyOfColors",
       "lastUpdated": 1563973867000
     }
   ],
