@@ -19,7 +19,7 @@
       ],
       "suggestedVersionName": "0.0.1",
       "suggestedVersionCode": "1",
-      "description": "A horror game where you collect pages being chased in the forest.",
+      "description": "I've recreated Slender Man on my Oculus Quest to scare my girlfriend.",
       "issueTracker": "https://github.com/ValemVR/Slender-Man-Oculus-Quest-Replica",
       "license": "FREE",
       "name": "Slender Man Replica",
@@ -33,7 +33,7 @@
     }
   ],
   "packages": {
-    "be.valemvr.slendermanreplica": [
+    "com.Valem.SlenderMan": [
       {
         "added": 1563967952000,
         "apkName": "https://github.com/ValemVR/Slender-Man-Oculus-Quest-Replica/raw/master/Slender%20Man%20Replica.apk",
