@@ -139,6 +139,24 @@
       "icon": "warrior.png",
       "packageName": "itch.io.Warrior",
       "lastUpdated": 1563977816000
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Social VR"
+      ],
+      "suggestedVersionName": "0.1.0",
+      "suggestedVersionCode": "1",
+      "description": "Becka’s portfolio and story follows her life from a young child through her struggle and eventual recovery from an eating disorder. As such, this project is meant to act as a conversation piece around topics like self-image, abuse, coping and addiction. \n\nThroughout the project, users are placed in a series of thematic rooms. Each room reflects a moment in Becka’s journey and is accompanied by a set of equally thematic paintings that can be completed by the user along with audio from a fictionalized version of Becka’s life written by the artist herself. Each one of these rooms essentially makes a gallery, a place where the artwork stands in the context of Becka’s life.",
+      "license": "FREE",
+      "name": "It's not me",
+      "sourceCode": "",
+      "summary": "It’s Not Me is an interactive VR experience featuring the work of Boise-based artist Becka Watkins.",
+      "webSite": "https://gimmworks.itch.io/its-not-me",
+      "added": 1563977816000,
+      "icon": "itsnotme.png",
+      "packageName": "itch.io.itsNotMe",
+      "lastUpdated": 1563977816000
     }
   ],
   "packages": {
