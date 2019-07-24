@@ -157,6 +157,24 @@
       "icon": "itsnotme.png",
       "packageName": "itch.io.itsNotMe",
       "lastUpdated": 1563977816000
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Social VR"
+      ],
+      "suggestedVersionName": "0.1.0",
+      "suggestedVersionCode": "1",
+      "description": "Set in a world where putt putt golf is celebrated as a major sport, excite the crowd with your world class skills!\n\nFeatures:\n\nThree unique levels to complete\nHigh score leader board - Compete with your friends!\nCollectibles scattered throughout every level\nThree different clubs!",
+      "license": "FREE",
+      "name": "Putt Putt Go",
+      "sourceCode": "",
+      "summary": "A wacky putt putt golf game for the Oculus Go.",
+      "webSite": "https://dylza.itch.io/putt-putt-go",
+      "added": 1563982140000,
+      "icon": "puttputtgo.png",
+      "packageName": "itch.io.PuttPuttGo",
+      "lastUpdated": 1563982140000
     }
   ],
   "packages": {
