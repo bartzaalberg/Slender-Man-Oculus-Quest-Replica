@@ -103,6 +103,24 @@
       "icon": "mallcopvr.png",
       "packageName": "itch.io.MallCopVR",
       "lastUpdated": 1563976678000
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Social VR"
+      ],
+      "suggestedVersionName": "0.1.0",
+      "suggestedVersionCode": "1",
+      "description": "With the new capabilities of the Gear VR headset, Veronika will be able to tell where you're looking, and what you're looking at... \n\n",
+      "license": "FREE",
+      "name": "VR Dates",
+      "sourceCode": "",
+      "summary": "Experience the awkwardness of a blind date in Virtual-Reality. ",
+      "webSite": "https://zeroechoz.itch.io/vr-dates",
+      "added": 1563977816000,
+      "icon": "vrdates.png",
+      "packageName": "itch.io.MallCopVR",
+      "lastUpdated": 1563977816000
     }
   ],
   "packages": {
