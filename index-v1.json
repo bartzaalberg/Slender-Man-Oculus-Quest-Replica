@@ -1,0 +1,62 @@
+{
+  "repo": {
+    "timestamp": 1563967952000,
+    "version": 21,
+    "name": "BZ repo",
+    "icon": "icon.jpg",
+    "address": "https://github.com/bartzaalberg/Slender-Man-Oculus-Quest-Replica/blob/master/",
+    "description": "Hi quest player and welcome to the repo! I do not own these games. I just make it easier to find them in Sidequest.Have fun."
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Social VR"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "1",
+      "description": "A horror game where you collect pages being chased in the forest.",
+      "issueTracker": "https://github.com/ValemVR/Slender-Man-Oculus-Quest-Replica",
+      "license": "FREE",
+      "name": "Slender Man Replica",
+      "sourceCode": "",
+      "summary": "A horror game where you collect pages being chased in the forest.",
+      "webSite": "https://github.com/ValemVR/Slender-Man-Oculus-Quest-Replica",
+      "added": 1563967952000,
+      "icon": "slender.jpg",
+      "packageName": "com.Valem.SlenderMan",
+      "lastUpdated": 1563967952000
+    }
+  ],
+  "packages": {
+    "be.valemvr.slendermanreplica": [
+      {
+        "added": 1563967952000,
+        "apkName": "https://github.com/ValemVR/Slender-Man-Oculus-Quest-Replica/raw/master/Slender%20Man%20Replica.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "26",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.Valem.SlenderMan",
+        "sig": "",
+        "size": 85354086400,
+        "srcname": "",
+        "targetSdkVersion": "26",
+        "versionCode": 113,
+        "versionName": "0.0.1",
+        "uses-permission": [
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ]
+  }
+}
