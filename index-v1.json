@@ -85,6 +85,24 @@
       "icon": "theratking.png",
       "packageName": "itch.io.TheRatKing",
       "lastUpdated": 1563973867000
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Social VR"
+      ],
+      "suggestedVersionName": "0.1.0",
+      "suggestedVersionCode": "1",
+      "description": "Everyone's going to be there! Enjoy our beautiful mall! Eat at our delicious food court! Buy amazing products, from music, to baked goods!",
+      "license": "FREE",
+      "name": "Mall Cop VR",
+      "sourceCode": "",
+      "summary": "You have been invited to a grand-opening bash at your local mall!",
+      "webSite": "https://esdin.itch.io/mall-cop-vr",
+      "added": 1563976678000,
+      "icon": "mallcopvr.png",
+      "packageName": "itch.io.MallCopVR",
+      "lastUpdated": 1563976678000
     }
   ],
   "packages": {
