@@ -30,6 +30,43 @@
       "icon": "slenderman.jpg",
       "packageName": "com.Valem.SlenderMan",
       "lastUpdated": 1563967952000
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Social VR"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "1",
+      "description": "Space Pilot Alliance is a slow-paced strategic space-fighter sim. Just setup your teams with bombers and fighters and then dive into the action, pilot your ship around the station, watch your radar and lock onto enemies. With two powerful lazers and a 50-meter 'fast boost' teleport, winning the battle is a matter of carefully planning your attacks, keeping distance from bombers and chasing down enemy fighters as they dodge and weave through space. Adjust power to different components of the ship: \nshields, blaster recharge, boosters, and check the live map for positioning info. Make smart choices. Stay alive. Defend the station!",
+      "issueTracker": "https://discordapp.com/invite/fZhfEn",
+      "license": "FREE",
+      "name": "Space Pilot Alliance",
+      "sourceCode": "",
+      "summary": "Tester version of Space Pilot Alliance.",
+      "webSite": "https://curiousvr.itch.io/space-pilot-alliance-oculus-quest",
+      "added": 1563973867000,
+      "icon": "spacepilotalliance.png",
+      "packageName": "",
+      "lastUpdated": 1563973867000
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Social VR"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "1",
+      "description": "Treat yourself to this virtual refuge from the real world with procedurally generated realms of gentle sounds, sweet-tasting colors, and breathtaking beauty.\n\nFind and catch the bouncing spheres to visit different worlds. Find the perfect place to relax and watch the virtual world go by. There are no enemies, quests, guns, or puzzles. There is no objective other than to relax and enjoy.",
+      "license": "FREE",
+      "name": "A lullaby of colors",
+      "sourceCode": "",
+      "summary": "This is a blissful psychedelic relaxation experience made for both VR and non-VR. ",
+      "webSite": "https://andyman404.itch.io/lullaby-of-colors",
+      "added": 1563973867000,
+      "icon": "alullabyofcolors.jpg",
+      "packageName": "",
+      "lastUpdated": 1563973867000
     }
   ],
   "packages": {
