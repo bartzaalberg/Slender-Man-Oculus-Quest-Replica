@@ -67,6 +67,24 @@
       "icon": "alullabyofcolors.jpg",
       "packageName": "itch.io.ALullabyOfColors",
       "lastUpdated": 1563973867000
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Social VR"
+      ],
+      "suggestedVersionName": "0.1.0",
+      "suggestedVersionCode": "1",
+      "description": "The Rat King is a atmospheric piece with an innovative locomotion mechanism. It is mainly meant to be explored, but there may be dangers hidden in a future update.",
+      "license": "FREE",
+      "name": "The Rat King",
+      "sourceCode": "",
+      "summary": "A seemingly endless forest to stroll through and get lost in. There are rumors of an exile deep in its stony heart.",
+      "webSite": "https://naam.itch.io/trk",
+      "added": 1563973867000,
+      "icon": "theratking.png",
+      "packageName": "itch.io.TheRatKing",
+      "lastUpdated": 1563973867000
     }
   ],
   "packages": {
