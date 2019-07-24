@@ -111,7 +111,7 @@
       ],
       "suggestedVersionName": "0.1.0",
       "suggestedVersionCode": "1",
-      "description": "With the new capabilities of the Gear VR headset, Veronika will be able to tell where you're looking, and what you're looking at... \n\n",
+      "description": "With the new capabilities of the Gear VR headset, Veronika will be able to tell where you're looking, and what you're looking at...",
       "license": "FREE",
       "name": "VR Dates",
       "sourceCode": "",
@@ -119,7 +119,25 @@
       "webSite": "https://zeroechoz.itch.io/vr-dates",
       "added": 1563977816000,
       "icon": "vrdates.png",
-      "packageName": "itch.io.MallCopVR",
+      "packageName": "itch.io.VRDates",
+      "lastUpdated": 1563977816000
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Social VR"
+      ],
+      "suggestedVersionName": "0.1.0",
+      "suggestedVersionCode": "1",
+      "description": "Warrior is a 3 minute energising VR experience set in an underground cave environment  with bubbling, rock-spitting magma, spikey stalagmites and circling bats. Ready your sword and defend yourself now from the rock-firing",
+      "license": "FREE",
+      "name": "Warrior",
+      "sourceCode": "",
+      "summary": "Feeling  sluggish and unmotivated? It's time to get battle ready - Play Warrior to get your adrenaline pumping and be ready to take on any task.",
+      "webSite": "https://seyatkinson.itch.io/warrior",
+      "added": 1563977816000,
+      "icon": "warrior.png",
+      "packageName": "itch.io.Warrior",
       "lastUpdated": 1563977816000
     }
   ],
