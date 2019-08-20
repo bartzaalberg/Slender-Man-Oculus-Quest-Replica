@@ -192,6 +192,24 @@
       "icon": "unitysurvivalshooter.png",
       "packageName": "com.Zirum.UnitySurvivalShooter",
       "lastUpdated": 1566282357000
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Social VR"
+      ],
+      "suggestedVersionName": "0.0.5",
+      "suggestedVersionCode": "1",
+      "description": "Only for Oculus Quest",
+      "license": "FREE",
+      "name": "Mazadventure VR",
+      "sourceCode": "",
+      "summary": "You are lost in a randomly generated maze, find the exit ..",
+      "webSite": "https://lefarow.itch.io/oculus-quest-mazadventure",
+      "added": 1566297193000,
+      "icon": "mazadventure.png",
+      "packageName": "com.LeFarow.Mazadventure",
+      "lastUpdated": 1566297193000
     }
   ],
   "packages": {
