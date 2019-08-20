@@ -174,6 +174,24 @@
       "icon": "tempus.png",
       "packageName": "itch.io.Tempus",
       "lastUpdated": 1566282357000
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Social VR"
+      ],
+      "suggestedVersionName": "0.1.0",
+      "suggestedVersionCode": "1",
+      "description": "",
+      "license": "FREE",
+      "name": "Unity Survival Shooter",
+      "sourceCode": "",
+      "summary": "A survival shooting game build in Unity",
+      "webSite": "https://www.youtube.com/watch?v=Y84d7Mm3n0g&feature=youtu.be",
+      "added": 1566282357000,
+      "icon": "unitysurvivalshooter.png",
+      "packageName": "com.Zirum.UnitySurvivalShooter",
+      "lastUpdated": 1566282357000
     }
   ],
   "packages": {
@@ -188,6 +206,31 @@
           "armeabi-v7a"
         ],
         "packageName": "com.Valem.SlenderMan",
+        "sig": "",
+        "size": 85354086400,
+        "srcname": "",
+        "targetSdkVersion": "26",
+        "versionCode": 113,
+        "versionName": "0.0.1",
+        "uses-permission": [
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.Zirum.UnitySurvivalShooter": [
+      {
+        "added": 1566282357000,
+        "apkName": "https://yadi.sk/d/LnmhCzogorkV0g",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "26",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.Zirum.UnitySurvivalShooter",
         "sig": "",
         "size": 85354086400,
         "srcname": "",
