@@ -156,6 +156,24 @@
       "icon": "hoverquest.png",
       "packageName": "itch.io.HoverQuest",
       "lastUpdated": 1566282357000
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Social VR"
+      ],
+      "suggestedVersionName": "0.1.0",
+      "suggestedVersionCode": "1",
+      "description": "Controls\n\nMove left/right (including menus)\n-A/D (Keyboard)\n-Left stick/horizontal Dpad (PS4 Dualshock)\n-Left stick (Oculus Quest)\n\nFire/select\n-Space (Keyboard)\n-Circle (PS4 Dualshock)\n-A (Oculus Quest)\n\nJump\n-Left Shift (Keyboard)\n-Left Trigger (PS4 Dualshock)\n-Left Trigger (Oculus Quest)",
+      "license": "FREE",
+      "name": "Tempus",
+      "sourceCode": "",
+      "summary": "Guide a sphere along bright, geometric shapes. Shoot at enemies to earn points.",
+      "webSite": "https://ryanslikesocool.itch.io/tempus",
+      "added": 1566282357000,
+      "icon": "tempus.png",
+      "packageName": "itch.io.Tempus",
+      "lastUpdated": 1566282357000
     }
   ],
   "packages": {
