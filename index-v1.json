@@ -210,6 +210,24 @@
       "icon": "mazadventure.png",
       "packageName": "com.LeFarow.Mazadventure",
       "lastUpdated": 1566297193000
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Social VR"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "1",
+      "description": "More information coming soon",
+      "license": "FREE",
+      "name": "ExperimentA1T Demo",
+      "sourceCode": "",
+      "summary": "A demo of the horror game ExperimentA1T",
+      "webSite": "",
+      "added": 1566315102000,
+      "icon": "experimenta1t.png",
+      "packageName": "com.AdynCalix.ExperimentA1T",
+      "lastUpdated": 1566315102000
     }
   ],
   "packages": {
