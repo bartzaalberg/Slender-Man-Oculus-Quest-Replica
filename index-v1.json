@@ -223,7 +223,7 @@
       "name": "The Unkindled Gallery VR",
       "sourceCode": "",
       "summary": "This is a collection of experimental feel-good artsy minigames for VR",
-      "webSite": "",
+      "webSite": "https://andyman404.itch.io/unkindled",
       "added": 1566469143000,
       "icon": "theunkindledgallery.png",
       "packageName": "com.AndyMan404.TheUnkindledGallery",
@@ -291,6 +291,31 @@
         "targetSdkVersion": "26",
         "versionCode": 113,
         "versionName": "0.0.1",
+        "uses-permission": [
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.LeFarow.Mazadventure": [
+      {
+        "added": 1566469143000,
+        "apkName": "https://github.com/Far0w/Mazadventure/raw/master/APKs/0.6.10.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "26",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.LeFarow.Mazadventure",
+        "sig": "",
+        "size": 49200000,
+        "srcname": "",
+        "targetSdkVersion": "26",
+        "versionCode": 113,
+        "versionName": "0.6.10",
         "uses-permission": [
           [
             "No permissions Listed...",
