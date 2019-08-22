@@ -216,6 +216,24 @@
       "categories": [
         "Social VR"
       ],
+      "suggestedVersionName": "1.0.0",
+      "suggestedVersionCode": "1",
+      "description": "Exploring different limited-palette, solid color (unlit) aesthetics, and avoiding the use of lighting/shadows.",
+      "license": "FREE",
+      "name": "The Unkindled Gallery VR",
+      "sourceCode": "",
+      "summary": "This is a collection of experimental feel-good artsy minigames for VR",
+      "webSite": "",
+      "added": 1566469143000,
+      "icon": "theunkindledgallery.png",
+      "packageName": "com.AndyMan404.TheUnkindledGallery",
+      "lastUpdated": 1566469143000
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Social VR"
+      ],
       "suggestedVersionName": "0.0.1",
       "suggestedVersionCode": "1",
       "description": "More information coming soon",
