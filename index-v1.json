@@ -246,6 +246,24 @@
       "icon": "experimenta1t.png",
       "packageName": "com.AdynCalix.ExperimentA1T",
       "lastUpdated": 1566315102000
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Social VR"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "1",
+      "description": "A killing that occurs under the Blood Eclipse is still a killing -- but a death is not a death at all. And tonight, the town that experienced a massacre under the Blood Eclipse centuries ago will not be letting its guests go without teaching them that lesson.\n\nUp to 6 players can play at a time, with up to 4 human heroes, and 2 zombie players. Each player will choose the character they'd like to play as and join or create a match! Then you'll have limited time to search for weapons and carry out the scenario goals!\n\nFeatures:\n-6 different playable characters: Fight zombies as WWII fighter pilot, cowgirl, or even a 1930's pinup girl!\n-4 different maps to choose from: an abandoned town, hotel lobby, office halls, or sewers!\n-5 different game scenarios: kill zombies, defend the manor, escape by truck, battle royale, and deathmatch!\n-6 different weapons to find: Defend yourself with a Colt Python, flamethrower, or minigun!\n\n",
+      "license": "FREE",
+      "name": "The Blood Eclipse",
+      "sourceCode": "",
+      "summary": "A horror fps game",
+      "webSite": "https://onionman77.itch.io/the-blood-eclipse",
+      "added": 1566556905000,
+      "icon": "the_blood_explipse.png",
+      "packageName": "com.OnionMan77.TheBloodEclipse",
+      "lastUpdated": 1566556905000
     }
   ],
   "packages": {
