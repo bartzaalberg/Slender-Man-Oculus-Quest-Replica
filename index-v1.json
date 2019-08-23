@@ -45,7 +45,7 @@
       "summary": "A seemingly endless forest to stroll through and get lost in. There are rumors of an exile deep in its stony heart.",
       "webSite": "https://naam.itch.io/trk",
       "added": 1563973867000,
-      "icon": "theratking.png",
+      "icon": "the_rat_king.png",
       "packageName": "itch.io.TheRatKing",
       "lastUpdated": 1563973867000
     },
@@ -63,7 +63,7 @@
       "summary": "You have been invited to a grand-opening bash at your local mall!",
       "webSite": "https://esdin.itch.io/mall-cop-vr",
       "added": 1563976678000,
-      "icon": "mallcopvr.png",
+      "icon": "mall_cop_vr.png",
       "packageName": "itch.io.MallCopVR",
       "lastUpdated": 1563976678000
     },
@@ -81,7 +81,7 @@
       "summary": "Experience the awkwardness of a blind date in Virtual-Reality. ",
       "webSite": "https://zeroechoz.itch.io/vr-dates",
       "added": 1563977816000,
-      "icon": "vrdates.png",
+      "icon": "vr_dates.png",
       "packageName": "itch.io.VRDates",
       "lastUpdated": 1563977816000
     },
@@ -117,7 +117,7 @@
       "summary": "It’s Not Me is an interactive VR experience featuring the work of Boise-based artist Becka Watkins.",
       "webSite": "https://gimmworks.itch.io/its-not-me",
       "added": 1563977816000,
-      "icon": "itsnotme.png",
+      "icon": "its_not_me.png",
       "packageName": "itch.io.itsNotMe",
       "lastUpdated": 1563977816000
     },
@@ -135,7 +135,7 @@
       "summary": "A wacky putt putt golf game for the Oculus Go.",
       "webSite": "https://dylza.itch.io/putt-putt-go",
       "added": 1563982140000,
-      "icon": "puttputtgo.png",
+      "icon": "puttputt_go.png",
       "packageName": "itch.io.PuttPuttGo",
       "lastUpdated": 1563982140000
     },
@@ -153,7 +153,7 @@
       "summary": "Drive your very own futuristic hover ship.",
       "webSite": "https://jasonofthestorm.itch.io/hoverquest",
       "added": 1566282357000,
-      "icon": "hoverquest.png",
+      "icon": "hover_quest.png",
       "packageName": "itch.io.HoverQuest",
       "lastUpdated": 1566282357000
     },
@@ -189,7 +189,7 @@
       "summary": "A survival shooting game build in Unity",
       "webSite": "https://www.youtube.com/watch?v=Y84d7Mm3n0g&feature=youtu.be",
       "added": 1566282357000,
-      "icon": "unitysurvivalshooter.png",
+      "icon": "unity_survival_shooter.png",
       "packageName": "com.Zirum.UnitySurvivalShooter",
       "lastUpdated": 1566282357000
     },
@@ -225,7 +225,7 @@
       "summary": "This is a collection of experimental feel-good artsy minigames for VR",
       "webSite": "https://andyman404.itch.io/unkindled",
       "added": 1566469143000,
-      "icon": "theunkindledgallery.png",
+      "icon": "the_unkindled_gallery.png",
       "packageName": "com.AndyMan404.TheUnkindledGallery",
       "lastUpdated": 1566469143000
     },
@@ -243,7 +243,7 @@
       "summary": "A demo of the horror game ExperimentA1T",
       "webSite": "",
       "added": 1566315102000,
-      "icon": "experimenta1t.png",
+      "icon": "experiment_a1t.png",
       "packageName": "com.AdynCalix.ExperimentA1T",
       "lastUpdated": 1566315102000
     },
