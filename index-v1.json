@@ -254,7 +254,7 @@
       ],
       "suggestedVersionName": "0.0.1",
       "suggestedVersionCode": "1",
-      "description": "A killing that occurs under the Blood Eclipse is still a killing -- but a death is not a death at all. And tonight, the town that experienced a massacre under the Blood Eclipse centuries ago will not be letting its guests go without teaching them that lesson.\n\nUp to 6 players can play at a time, with up to 4 human heroes, and 2 zombie players. Each player will choose the character they'd like to play as and join or create a match! Then you'll have limited time to search for weapons and carry out the scenario goals!\n\nFeatures:\n-6 different playable characters: Fight zombies as WWII fighter pilot, cowgirl, or even a 1930's pinup girl!\n-4 different maps to choose from: an abandoned town, hotel lobby, office halls, or sewers!\n-5 different game scenarios: kill zombies, defend the manor, escape by truck, battle royale, and deathmatch!\n-6 different weapons to find: Defend yourself with a Colt Python, flamethrower, or minigun!\n\n",
+      "description": "A killing that occurs under the Blood Eclipse is still a killing -- but a death is not a death at all. And tonight, the town that experienced a massacre under the Blood Eclipse centuries ago will not be letting its guests go without teaching them that lesson.\n\nUp to 6 players can play at a time, with up to 4 human heroes, and 2 zombie players. Each player will choose the character they'd like to play as and join or create a match! Then you'll have limited time to search for weapons and carry out the scenario goals!\n\nFeatures:\n-6 different playable characters: Fight zombies as WWII fighter pilot, cowgirl, or even a 1930's pinup girl!\n-4 different maps to choose from: an abandoned town, hotel lobby, office halls, or sewers!\n-5 different game scenarios: kill zombies, defend the manor, escape by truck, battle royale, and deathmatch!\n-6 different weapons to find: Defend yourself with a Colt Python, flamethrower, or minigun!",
       "license": "PAID",
       "name": "The Blood Eclipse",
       "sourceCode": "",
@@ -272,7 +272,7 @@
       ],
       "suggestedVersionName": "0.0.1",
       "suggestedVersionCode": "1",
-      "description": "This game is designed for the Oculus Quest only! You will also need to sideload the game in order to play it. I recommend using SideQuest\n\nPlay Symphony of Stars how you like! Fly around gazing at the stars and planets, or engage in combat, take over planets and build your faction's empire! If you choose the later, you'll need to use a bit of strategy as there are other factions vying for control of the system in the game. Build up resources, and properly leave planets defended before moving on the attack.\n\nFeatures:\n-3 Different playable factions, each with their own style of ship\n-Randomly generated maps, each game is different!\n-AI Difficulty levels, and team settings. Up the AI difficulty and try to take them down with a friend if you'd like!\n-Online multiplayer, play with up to 9 other humans or hone your skills against the AI!\n\n",
+      "description": "This game is designed for the Oculus Quest only! You will also need to sideload the game in order to play it. I recommend using SideQuest\n\nPlay Symphony of Stars how you like! Fly around gazing at the stars and planets, or engage in combat, take over planets and build your faction's empire! If you choose the later, you'll need to use a bit of strategy as there are other factions vying for control of the system in the game. Build up resources, and properly leave planets defended before moving on the attack.\n\nFeatures:\n-3 Different playable factions, each with their own style of ship\n-Randomly generated maps, each game is different!\n-AI Difficulty levels, and team settings. Up the AI difficulty and try to take them down with a friend if you'd like!\n-Online multiplayer, play with up to 9 other humans or hone your skills against the AI!",
       "license": "PAID",
       "name": "Symphony of Stars",
       "sourceCode": "",
@@ -282,6 +282,24 @@
       "icon": "symfony_of_stars.png",
       "packageName": "com.OnionMan77.SymfonyOfStars",
       "lastUpdated": 1567432548000
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Social VR"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "1",
+      "description": "The game is a mix of escape room, game of dexterity in a horrifying atmosphere.",
+      "license": "FREE",
+      "name": "GhostLine",
+      "sourceCode": "",
+      "summary": "GhostLine is a prototype developed for oculus for Oculus Quest.",
+      "webSite": "https://lebonx.itch.io/ghostline",
+      "added": 1567432749000,
+      "icon": "ghost_line.png",
+      "packageName": "com.LeBonx.GhostLine",
+      "lastUpdated": 1567432749000
     }
   ],
   "packages": {
