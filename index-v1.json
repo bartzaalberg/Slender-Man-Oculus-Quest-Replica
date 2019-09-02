@@ -300,6 +300,24 @@
       "icon": "ghost_line.png",
       "packageName": "com.LeBonx.GhostLine",
       "lastUpdated": 1567432749000
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Social VR"
+      ],
+      "suggestedVersionName": "1.1.0",
+      "suggestedVersionCode": "1",
+      "description": "After the downfall of civilization, the world is dominated by mechaaaas.\nThose giant robots are fighting to take control over the remains of the humans' technology.\nYou too, join this battle of EPIC proportions and become the strongest of all mechas.\nTake part into VR gigantic fights. Over 100 players in an unforgiving arena !\nThat multiplayer experience will blow your mind !\nDeveloped by the talentuous Team 6, inspired by the popular Agar.IO (+ Fortnite).",
+      "license": "FREE",
+      "name": "MECHA.IO",
+      "sourceCode": "",
+      "summary": "Take part in VR gigantic fights.",
+      "webSite": "https://petrus.itch.io/mechaio",
+      "added": 1567432749000,
+      "icon": "mecha_io.gif",
+      "packageName": "com.Petrus.MechaIO",
+      "lastUpdated": 1567432749000
     }
   ],
   "packages": {
