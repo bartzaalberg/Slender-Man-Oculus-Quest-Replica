@@ -318,6 +318,24 @@
       "icon": "mecha_io.gif",
       "packageName": "com.Petrus.MechaIO",
       "lastUpdated": 1567432749000
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Social VR"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "1",
+      "description": "He said:\n\n\"Things aren’t working out between us anymore.\"\n\"It’s time that we start seeing other people.\"\n\"It’s not you, it’s me. You’re too good for me ,I’m not good enough for you.\"\n\"We should probably break up.\"",
+      "license": "FREE",
+      "name": "After Break VR",
+      "sourceCode": "",
+      "summary": "A woman asked her ex boyfriend why he broke up with her.",
+      "webSite": "https://daydev.itch.io/after-breakup-vr",
+      "added": 1567491776000,
+      "icon": "after_break_vr.gif",
+      "packageName": "com.DayDev.AfterBreakVR",
+      "lastUpdated": 1567491776000
     }
   ],
   "packages": {
