@@ -333,9 +333,27 @@
       "summary": "A woman asked her ex boyfriend why he broke up with her.",
       "webSite": "https://daydev.itch.io/after-breakup-vr",
       "added": 1567491776000,
-      "icon": "after_break_vr.gif",
+      "icon": "after_break_vr.png",
       "packageName": "com.DayDev.AfterBreakVR",
       "lastUpdated": 1567491776000
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Social VR"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "1",
+      "description": "Available on Oculus Quest (preferred) and Steam VR.\n\nUse any available details to build pipeline for the meatballs to fed the Labrador.\n\nControls: Trigger or Side button to grab, Thumbstick to teleportation.",
+      "license": "FREE",
+      "name": "Labradory",
+      "sourceCode": "",
+      "summary": "Designed for room-scale VR.",
+      "webSite": "https://reejk.itch.io/labradory",
+      "added": 1567506364000,
+      "icon": "labradory.png",
+      "packageName": "com.Reejk.Labradory",
+      "lastUpdated": 1567506364000
     }
   ],
   "packages": {
