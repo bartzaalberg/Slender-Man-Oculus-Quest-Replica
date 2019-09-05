@@ -128,24 +128,6 @@
       ],
       "suggestedVersionName": "0.1.0",
       "suggestedVersionCode": "1",
-      "description": "Set in a world where putt putt golf is celebrated as a major sport, excite the crowd with your world class skills!\n\nFeatures:\n\nThree unique levels to complete\nHigh score leader board - Compete with your friends!\nCollectibles scattered throughout every level\nThree different clubs!",
-      "license": "FREE",
-      "name": "Putt Putt Go",
-      "sourceCode": "",
-      "summary": "A wacky putt putt golf game for the Oculus Go.",
-      "webSite": "https://dylza.itch.io/putt-putt-go",
-      "added": 1563982140000,
-      "icon": "puttputt_go.png",
-      "packageName": "itch.io.PuttPuttGo",
-      "lastUpdated": 1563982140000
-    },
-    {
-      "antiFeatures": [],
-      "categories": [
-        "Social VR"
-      ],
-      "suggestedVersionName": "0.1.0",
-      "suggestedVersionCode": "1",
       "description": "Hover Quest is a project in development primarily for the Oculus Quest, and it starts with your very own futuristic hover ship. Control it with an interactive dual throttle system and traverse an infinite landscape. Jump off of hills, drift sharp turns, try the loop de loop if you dare. This game uses extreme locomotion and is not recommended for those prone to VR induced motion sickness.\n\nIn-vehicle controls:\n\nPress and hold the Oculus button to center your view.\nGrab the dual throttles with grip buttons and move your hands to control them. Push both throttles forward to accelerate. Pull either throttle backward to turn in that throttle's direction. Pull them both backward to reverse.\nPress and hold either trigger button (or both) to lose traction and engage drifting. Let go to recover traction.\nPress the B or Y button (or both) to align your ship with the terrain. This is necessary for things like wall riding and loops. Warning: this is also considerably more intense in terms of motion sickness.\nThis project is currently in the early alpha/prototype stage. There is no tutorial or menu at the moment, and you will be dropped immediately into the cockpit.",
       "license": "FREE",
       "name": "Hover Quest Demo",
@@ -173,24 +155,6 @@
       "added": 1566282357000,
       "icon": "tempus.png",
       "packageName": "itch.io.Tempus",
-      "lastUpdated": 1566282357000
-    },
-    {
-      "antiFeatures": [],
-      "categories": [
-        "Social VR"
-      ],
-      "suggestedVersionName": "0.1.0",
-      "suggestedVersionCode": "1",
-      "description": "",
-      "license": "FREE",
-      "name": "Unity Survival Shooter",
-      "sourceCode": "",
-      "summary": "A survival shooting game build in Unity",
-      "webSite": "https://www.youtube.com/watch?v=Y84d7Mm3n0g&feature=youtu.be",
-      "added": 1566282357000,
-      "icon": "unity_survival_shooter.png",
-      "packageName": "com.Zirum.UnitySurvivalShooter",
       "lastUpdated": 1566282357000
     },
     {
@@ -228,24 +192,6 @@
       "icon": "the_unkindled_gallery.png",
       "packageName": "com.AndyMan404.TheUnkindledGallery",
       "lastUpdated": 1566469143000
-    },
-    {
-      "antiFeatures": [],
-      "categories": [
-        "Social VR"
-      ],
-      "suggestedVersionName": "0.1.0",
-      "suggestedVersionCode": "1",
-      "description": "",
-      "license": "FREE",
-      "name": "Experiment A1T",
-      "sourceCode": "",
-      "summary": "A horror game for the quest",
-      "webSite": "",
-      "added": 1566315102000,
-      "icon": "experiment_a1t.png",
-      "packageName": "com.GamingFrame.ExperimentA1T",
-      "lastUpdated": 1566315102000
     },
     {
       "antiFeatures": [],
@@ -382,31 +328,6 @@
         ]
       }
     ],
-    "com.Zirum.UnitySurvivalShooter": [
-      {
-        "added": 1566282357000,
-        "apkName": "https://yadi.sk/d/LnmhCzogorkV0g",
-        "hash": "",
-        "hashType": "sha256",
-        "minSdkVersion": "26",
-        "nativecode": [
-          "armeabi-v7a"
-        ],
-        "packageName": "com.Zirum.UnitySurvivalShooter",
-        "sig": "",
-        "size": 85354086400,
-        "srcname": "",
-        "targetSdkVersion": "26",
-        "versionCode": 113,
-        "versionName": "0.0.1",
-        "uses-permission": [
-          [
-            "No permissions Listed...",
-            null
-          ]
-        ]
-      }
-    ],
     "com.LeFarow.Mazadventure": [
       {
         "added": 1566469143000,
@@ -424,31 +345,6 @@
         "targetSdkVersion": "26",
         "versionCode": 113,
         "versionName": "0.6.13",
-        "uses-permission": [
-          [
-            "No permissions Listed...",
-            null
-          ]
-        ]
-      }
-    ],
-    "com.GamingFrame.ExperimentA1T": [
-      {
-        "added": 1566469143000,
-        "apkName": "https://github.com/ThomasBeHappy/Experiment-A1T/blob/master/Releases/Expirement%20A1T%20v0.1.0.apk?raw=true",
-        "hash": "",
-        "hashType": "sha256",
-        "minSdkVersion": "26",
-        "nativecode": [
-          "armeabi-v7a"
-        ],
-        "packageName": "com.GamingFrame.ExperimentA1T",
-        "sig": "",
-        "size": 49200000,
-        "srcname": "",
-        "targetSdkVersion": "26",
-        "versionCode": 113,
-        "versionName": "0.1.0",
         "uses-permission": [
           [
             "No permissions Listed...",
