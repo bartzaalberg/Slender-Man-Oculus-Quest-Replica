@@ -128,24 +128,6 @@
       ],
       "suggestedVersionName": "0.1.0",
       "suggestedVersionCode": "1",
-      "description": "Hover Quest is a project in development primarily for the Oculus Quest, and it starts with your very own futuristic hover ship. Control it with an interactive dual throttle system and traverse an infinite landscape. Jump off of hills, drift sharp turns, try the loop de loop if you dare. This game uses extreme locomotion and is not recommended for those prone to VR induced motion sickness.\n\nIn-vehicle controls:\n\nPress and hold the Oculus button to center your view.\nGrab the dual throttles with grip buttons and move your hands to control them. Push both throttles forward to accelerate. Pull either throttle backward to turn in that throttle's direction. Pull them both backward to reverse.\nPress and hold either trigger button (or both) to lose traction and engage drifting. Let go to recover traction.\nPress the B or Y button (or both) to align your ship with the terrain. This is necessary for things like wall riding and loops. Warning: this is also considerably more intense in terms of motion sickness.\nThis project is currently in the early alpha/prototype stage. There is no tutorial or menu at the moment, and you will be dropped immediately into the cockpit.",
-      "license": "FREE",
-      "name": "Hover Quest Demo",
-      "sourceCode": "",
-      "summary": "Drive your very own futuristic hover ship.",
-      "webSite": "https://jasonofthestorm.itch.io/hoverquest",
-      "added": 1566282357000,
-      "icon": "hover_quest.png",
-      "packageName": "itch.io.HoverQuest",
-      "lastUpdated": 1566282357000
-    },
-    {
-      "antiFeatures": [],
-      "categories": [
-        "Social VR"
-      ],
-      "suggestedVersionName": "0.1.0",
-      "suggestedVersionCode": "1",
       "description": "Controls\n\nMove left/right (including menus)\n-A/D (Keyboard)\n-Left stick/horizontal Dpad (PS4 Dualshock)\n-Left stick (Oculus Quest)\n\nFire/select\n-Space (Keyboard)\n-Circle (PS4 Dualshock)\n-A (Oculus Quest)\n\nJump\n-Left Shift (Keyboard)\n-Left Trigger (PS4 Dualshock)\n-Left Trigger (Oculus Quest)",
       "license": "FREE",
       "name": "Tempus",
