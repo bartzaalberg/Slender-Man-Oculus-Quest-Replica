@@ -300,6 +300,24 @@
       "icon": "overlord_vr.png",
       "packageName": "com.YrgoGameProgrammer.OverlordVR",
       "lastUpdated": 1567506364000
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Social VR"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "1",
+      "description": "",
+      "license": "FREE",
+      "name": "Simple Bowling VR",
+      "sourceCode": "",
+      "summary": "Virtual reality 10 pin Bowling with Score Board.",
+      "webSite": "https://malik9.itch.io/simple-bowling-vr",
+      "added": 1567506364000,
+      "icon": "simple_bowling_vr.png",
+      "packageName": "com.Malik9.SimpleBowlingVR",
+      "lastUpdated": 1567506364000
     }
   ],
   "packages": {
