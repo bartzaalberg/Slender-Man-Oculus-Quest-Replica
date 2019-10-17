@@ -318,6 +318,24 @@
       "icon": "simple_bowling_vr.png",
       "packageName": "com.Malik9.SimpleBowlingVR",
       "lastUpdated": 1567506364000
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Social VR"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "1",
+      "description": "Sometimes you need to just get away from it all and drive for a really long time. Downpour Drive it about that feeling.\n\n___\n\nDownpour Drive is a work in progress. Updates to the game will continue until we're satisfied that it's done, but for the time being development is on hold while the team works on other obligations.",
+      "license": "PAID",
+      "name": "Downpour Drive",
+      "sourceCode": "",
+      "summary": "A VR game about picking the right song to set the mood, keying the ignition and driving down an infinite road one dreamlike evening.",
+      "webSite": "https://cypressfluff.itch.io/downpour-drive",
+      "added": 1571307837000,
+      "icon": "downpour_drive.png",
+      "packageName": "com.CypressFluff.DownpourDrive",
+      "lastUpdated": 1571307837000
     }
   ],
   "packages": {
