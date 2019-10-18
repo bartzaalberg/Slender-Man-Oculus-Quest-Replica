@@ -272,24 +272,6 @@
       ],
       "suggestedVersionName": "0.0.1",
       "suggestedVersionCode": "1",
-      "description": "A simple wave shooter for Oculus Quest. I hope you'll enjoy!\n\nControls\n\nRight controller trigger only. Shoot. That's hit. It's a shooter.\nYou -have to- point your hand down to reload (you \"start with nothing\")\nShoot the yellow spheres to teleport\nDetails\n\n 5-10 mins experience\nInspired by Elven Assassin\nSingle player\nHow to install\n\nDownload the apk file and then install it on the Quest with Side Quest (Just drag and drop it in Side Quest) or you can use adb in command line (abd install -r HellDefender.apk). Feel free to contact me directly using the comment section if you need any help with that.\n\nHappy shooting, have fun!",
-      "license": "FREE",
-      "name": "Hell Defender",
-      "sourceCode": "",
-      "summary": "Shoot balistic arrows at demons to save the world.",
-      "webSite": "https://spacemonkeyc.itch.io/hell-defender",
-      "added": 1567506364000,
-      "icon": "hell_defender.png",
-      "packageName": "com.Reejk.HellDefender",
-      "lastUpdated": 1567506364000
-    },
-    {
-      "antiFeatures": [],
-      "categories": [
-        "Social VR"
-      ],
-      "suggestedVersionName": "0.0.1",
-      "suggestedVersionCode": "1",
       "description": "This game was a four week school project at Yrgo, Gothenburg, made for the Oculus Quest.\n\nMade by:\nAmie Faily\nPhilip Åkerblom\nKian Parsa\nJohan Appelgren\nRobin Arkblad",
       "license": "FREE",
       "name": "Overlord VR",
