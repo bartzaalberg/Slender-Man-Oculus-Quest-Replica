@@ -318,6 +318,24 @@
       "icon": "downpour_drive.png",
       "packageName": "com.CypressFluff.DownpourDrive",
       "lastUpdated": 1571307837000
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Social VR"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "1",
+      "description": "In Project Overload you are a little robot who is infiltrating a facility guarded by many other robots. If they're find you, they're will kill you. You need  to access the central server to accomplish your final objective.\n\nInfiltration in VR\nConfort. The game is made for playing in a sitting position.\nImmersive soundtrack.\nStressful experience.\nAbout the development:\n\nProject Overload is a project made in 6 weeks  by 5 peoples as part of a training in game development. In it's current state, the game is not properly finished, it may receive updates later on. It was made primary for the Oculus Quest but it's also working with the Rift.",
+      "license": "FREE",
+      "name": "Project Overload",
+      "sourceCode": "",
+      "summary": "If they're find you, they're will kill you.",
+      "webSite": "https://mrknight.itch.io/project-overload",
+      "added": 1576673760000,
+      "icon": "project_overload.png",
+      "packageName": "com.MrKnight.ProjectOverload",
+      "lastUpdated": 1576673760000
     }
   ],
   "packages": {
